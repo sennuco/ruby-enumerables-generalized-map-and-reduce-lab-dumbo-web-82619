@@ -22,6 +22,7 @@ else
   end
   while i < array.length do
     total = yield(array[i], total)
+    i+=1
   end
    total
 end
