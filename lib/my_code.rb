@@ -18,7 +18,7 @@ def reduce(array, starting_point =nil)
   i=0
   total=starting_point
 else
-  
+  total = 
     
   end
   while i < array.length do
