@@ -12,7 +12,7 @@ end
 
 
 #my reduce
-def reduce(array, starting_point =nil)
+def reduce(array, starting_point = nil)
   if starting_point
    total=starting_point
   i=0
